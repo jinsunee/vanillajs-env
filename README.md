@@ -13,7 +13,7 @@ $ git clone https://github.com/jinsunee/vanillajs-env.git && cd vanillajs-env
 ```
 $ yarn
 or
-$$ npm install
+$ npm install
 ```
 
 ## How to start
