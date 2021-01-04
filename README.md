@@ -1,0 +1,1 @@
+# VanillaJS environment template for building Web project

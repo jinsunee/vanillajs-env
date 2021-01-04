@@ -1,0 +1,21 @@
+{
+  "name": "vanillajs-env",
+  "version": "1.0.0",
+  "description": "Setting for building vanillaJS web project environment",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest --config=jest.config.js",
+    "start": "http-server . -c-1"
+  },
+  "dependencies": {},
+  "repository": "https://github.com/jinsunee/vanillajs-env.git",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "http-server": "^0.12.3",
+    "jest": "^26.6.3"
+  },
+  "author": "jinsunee <jsunee.dev@gmail.com>",
+  "license": "MIT"
+}
